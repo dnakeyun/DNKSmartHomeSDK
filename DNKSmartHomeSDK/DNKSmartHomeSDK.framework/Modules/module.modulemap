@@ -1,0 +1,6 @@
+framework module DNKSmartHomeSDK {
+  umbrella header "DNKSmartHomeSDK.h"
+
+  export *
+  module * { export * }
+}
